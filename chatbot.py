@@ -16,7 +16,6 @@ def get_response(message):
 
     return "Sorry, I don't understand that."
 
-
 def main():
     print("Chatbot started! Type 'bye' to exit.\n")
 
